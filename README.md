@@ -1,3 +1,6 @@
+An Basic Macro to conver ITRAN text (https://www.aczoom.com/itrans/#itransencoding) to devanagiri.
+Primarily to be used with OpenOffice or LibreOffice.
+
 Usage:
 Input is selected text in OpenOffice Writer.
 Select the text and Run the macro.
