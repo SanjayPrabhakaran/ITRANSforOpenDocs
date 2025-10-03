@@ -1,4 +1,4 @@
-An Basic Macro to conver ITRAN text (https://www.aczoom.com/itrans/#itransencoding) to devanagiri.
+An Basic Macro to convert ITRAN text (https://www.aczoom.com/itrans/#itransencoding) to devanagiri.
 Primarily to be used with OpenOffice or LibreOffice.
 
 Usage:
