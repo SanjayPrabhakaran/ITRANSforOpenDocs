@@ -3,7 +3,7 @@ Basic ITRANS Macro
 An Basic Macro to convert ITRAN text (https://www.aczoom.com/itrans/#itransencoding) to devanagiri.
 Primarily to be used with OpenOffice or LibreOffice.
 
-** Read the OpenOffice/LibreOffice documentation to add this .bas file as macro **
+**Read the OpenOffice/LibreOffice documentation to add this .bas file as macro**
 
 Usage:
 -----
